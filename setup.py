@@ -42,7 +42,7 @@ setup(
     name='data_loading',
     version=_version,
     packages=find_packages(),
-    url='https://github.com/justusschock/data_loading_stuff',
+    url='https://github.com/justusperillieux/data_loading_stuff',
     test_suite="unittest",
     long_description=readme,
     long_description_content_type='text/markdown',
