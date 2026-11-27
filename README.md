@@ -32,7 +32,7 @@ setup(
     name='template_package',
     version=_version,
     packages=find_packages(),
-    url='https://github.com/justusschock/template-repo-python',
+    url='https://github.com/justusperillieux/template-repo-python',
     test_suite="unittest",
     long_description=readme,
     long_description_content_type='text/markdown',
